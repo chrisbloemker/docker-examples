@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:16.04
 LABEL MAINTAINER chrisbloemker@gmail.com
 
 RUN apt update; \
